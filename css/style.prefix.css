@@ -564,9 +564,10 @@ body {
 .review {
   background-color: #fff;
   -webkit-box-shadow: var(--shadow-light);
-          box-shadow: var(--shadow-  margin-bottom: 3.5rem;
-  position: relative;
-  overflow: hidden; }
+  box-shadow: var(--shadow-  margin-bottom 3.5rem);
+  position :relative
+  overflow hidden;
+ }
   @media only screen and (max-width: 56.25em) {
     .review {
       padding: 2rem;
